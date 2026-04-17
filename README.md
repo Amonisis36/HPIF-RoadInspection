@@ -21,7 +21,7 @@ This repository provides the official implementation of the **Hierarchical Prior
 
 ```bash
 # Clone the repository
-git clone [https://github.com/YourUsername/HPIF-Inverse-Rendering.git](https://github.com/YourUsername/HPIF-Inverse-Rendering.git)
+git clone [https://github.com/Amonisis36/HPIF-Inverse-Rendering.git](https://github.com/Amonisis36/HPIF-Inverse-Rendering.git)
 cd HPIF-Inverse-Rendering
 
 # Install dependencies
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 We release the highly-controlled, synthetic physically-based rendered (PBR) dataset: **ActiveLight-PBR**.
 
-1. Download the `ActiveLight-PBR_Release.zip` dataset from [Zenodo Link - TODO].
+1. Download the `ActiveLight-PBR_Release.zip` dataset from [https://doi.org/10.5281/zenodo.19603543].
 2. Extract the dataset into your preferred data directory.
 3. The dataset automatically includes the crucial `Global_Left_Prior.npy` and `Global_Right_Prior.npy` files.
 
