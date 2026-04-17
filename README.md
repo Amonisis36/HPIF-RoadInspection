@@ -44,7 +44,7 @@ We release the highly-controlled, synthetic physically-based rendered (PBR) data
 
 Want to see the results immediately? Use our provided inference script on your own images.
 
-1. Download our pre-trained model `Official_Best.pth` from [Google Drive / Baidu Netdisk Link - TODO] and place it in the `checkpoints/` folder.
+1. Download our pre-trained model `Official_Best.pth` from [https://doi.org/10.5281/zenodo.19603543] and place it in the `checkpoints/` folder.
 2. Run the prediction script:
 
 ```bash
